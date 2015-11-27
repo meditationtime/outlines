@@ -21,4 +21,4 @@ Collective meditation has a remarkable impact on the environment of the particip
 This project is still in it's earliest form, everything still has to begin.  I do believe the idea is strong enough to give it enough momentum to reach a global community and be able to improve the lives of millions.  Please do feel free to pro-actively get in touch if this resonates..
 
 ## github 101
-If you don't know github (you're looking at it), it's a free online content repository where people can collaborate both simple and very advanced ways, powering thousands of interesting projects. Anyone can contribute and all changes are reversible (the very nature of version control).
+If you don't know github (you're looking at it), it's a free online content repository where people can collaborate both in simple and very advanced ways, powering thousands of interesting projects. Anyone can contribute and all changes are reversible (the very nature of version control).
