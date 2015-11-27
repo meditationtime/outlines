@@ -1,0 +1,2 @@
+# outlines
+General idea container
