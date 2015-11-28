@@ -1,6 +1,6 @@
 # Outlines
 
-This repository serves as container to collect initial ideas and project targets.  This readme serves as a general draft document. 
+This repository serves as container to collect initial ideas and project targets.  This readme serves as a general draft document and is still very incomplete. 
 
 ## Goal
 - To create and maintain a global community around collective meditation moments, allowing people to join an organized meditation across the world together. 
@@ -9,7 +9,7 @@ This repository serves as container to collect initial ideas and project targets
 
 
 ## Motivation 
-Collective meditation has a remarkable impact on the environment of the participants and beyond.   More and more studies show the positive effects of participating in collective meditations
+Collective meditation has a remarkable impact on the environment of the participants and beyond.   More and more studies show the positive effects of participating in collective meditations.
 
 
 ## Projects
@@ -18,7 +18,7 @@ Collective meditation has a remarkable impact on the environment of the particip
 - Social Media app
 
 ## Todo
-This project is still in its earliest form, everything still has to begin.  I do believe the idea is strong enough to give it the momentum to reach a global community and be able to improve the lives of millions.  Please do feel free to pro-actively get in touch if this resonates..
+This project is still in its earliest form, everything still has to begin.  I do believe the idea is strong enough to give it the momentum to reach a global community and be able to improve the lives of millions.  Please do feel free to get in touch if this resonates..
 
 ## github 101
 If you don't know github (you're looking at it), it's a free online content repository where people can collaborate both in simple and very advanced ways, powering thousands of interesting projects. Anyone can contribute and all changes are reversible (the very nature of version control).
