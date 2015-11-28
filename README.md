@@ -13,7 +13,7 @@ Collective meditation has a remarkable impact on the environment of the particip
 
 
 ## Projects
-- (https://github.com/meditationtime/app)[Mobile app]
+- (Mobile app)[https://github.com/meditationtime/app]
 - Web platform 
 - Social Media apps
 
