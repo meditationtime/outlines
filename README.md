@@ -13,9 +13,9 @@ Collective meditation has a remarkable impact on the environment of the particip
 
 
 ## Projects
-- Mobile app
+- (https://github.com/meditationtime/app)[Mobile app]
 - Web platform 
-- Social Media app
+- Social Media apps
 
 ## Todo
 This project is still in its earliest form, everything still has to begin.  I do believe the idea is strong enough to give it the momentum to reach a global community and be able to improve the lives of millions.  Please do feel free to get in touch if this resonates..
