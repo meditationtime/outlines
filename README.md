@@ -9,11 +9,11 @@ This repository serves as container to collect initial ideas and project targets
 
 
 ## Motivation 
-Collective meditation has a remarkable impact on the environment of the participants and beyond.   More and more studies show the positive effects of participating in collective meditations.
+Collective meditation has a remarkable impact on the environment of the participants and beyond.   More and more studies show the positive effects of participating in collective meditations.  Allowing local communities to share their topics and interests while gaining more attendants.
 
 
 ## Projects
-- (Mobile app)[https://github.com/meditationtime/app]
+- [Mobile app](https://github.com/meditationtime/app)
 - Web platform 
 - Social Media apps
 
