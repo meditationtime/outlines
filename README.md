@@ -3,13 +3,20 @@
 This repository serves as container to collect initial ideas and project targets.  This readme serves as a general draft document and is still very incomplete. 
 
 ## Goal
-- To create and maintain a global community around collective meditation moments, allowing people to join an organized meditation across the world together. 
+- To unite and expand the global community around collective meditative moments, allowing people to join an organized meditation across the world together at the same time. 
 - To have at least 2 meditation times per day to compensate the timezone differences. 
 - To have a variety of meditation topics provided by the great spiritual leaders and the community, inspired by the current date and events.
 
 
 ## Motivation 
 Collective meditation has a remarkable impact on the environment of the participants and beyond.   More and more studies show the positive effects of participating in collective meditations.  Allowing local communities to share their topics and interests while gaining more attendants.
+
+## Example usages
+- To meditate at home and know which current meditations are being held
+- Set personal meditation topics at a given time and have it optionally listed so other people can join
+- Participating in a meditation moment with an audio or video stream locally stored so no active internet connection is needed.
+- Know which upcoming meditation moments are happening for the subjects I'm interested in so I can be inspired 
+- Organize local meditation moments and meet people
 
 
 ## Projects
